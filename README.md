@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Rwanda art council**
 
-- 👨‍💻 All of my projects are available at [https://alvindimpos.github.io/My-portfolio/](https://alvindimpos.github.io/My-portfolio/)
+- 👨‍💻 All of my projects are available at [https://alvinfiston.me/](https://alvinfiston.me/)
 
 - 💬 Ask me about **react**
 
