@@ -22,9 +22,6 @@
   </div>
 <h1 align="center">Hi 👋, I'm Alvin Fiston</h1>
 <h3 align="center">A passionate frontend developer from Rwanda</h3>
-
-<p align="left"> <a href="https://twitter.com/fistonalvin" target="blank"><img src="https://img.shields.io/twitter/follow/fistonalvin?logo=twitter&style=for-the-badge" alt="fistonalvin" /></a> </p>
-
 - 🔭 I’m currently working on **Rwanda art council**
 
 - 👨‍💻 All of my projects are available at [https://alvinfiston.me/](https://alvinfiston.me/)
