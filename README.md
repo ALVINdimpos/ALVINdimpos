@@ -36,4 +36,4 @@
 ## 📊GitHub Stats :
 ![Alvin Coder's GitHub stats](https://github-readme-stats.vercel.app/api?username=ALVINdimpos&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false)
 ![Alvin Coder's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ALVINdimpos&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-![Alvin Coder's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ALVINdimpos&theme=highcontrast&hide_border=false)<br/>
+![Alvin Coder's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?username=ALVINdimpos&theme=highcontrast&hide_border=false)<br/>
