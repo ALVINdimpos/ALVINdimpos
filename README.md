@@ -21,13 +21,10 @@
   <h1>Hi there 👋 </h1>
   </div>
 <div class="text">
-        <p>Hi, I'm Alvin Fiston, a Full Stack Developer with a passion for creating beautiful and functional websites. I
-          specialize in HTML, CSS, JavaScript, React js, Node js and responsive design.</p>
-        <p>I believe that good design is not just about aesthetics, but also about usability and accessibility. My goal
-          is to create websites that are not only visually appealing, but also easy to use and accessible to everyone.
+        <p>As a Full Stack Developer with over 4 years of experience, I have a proven track record of building robust web applications from the ground up. My expertise spans from front-end technologies like React and NextJs to back-end frameworks such as Node.js. I am a problem-solver at heart, always eager to tackle complex challenges and deliver efficient, scalable solutions.</p>
+        <p>I take pride in writing clean, maintainable code and have a keen eye for detail, ensuring that every aspect of the application delivers a seamless user experience. My approach is collaborative and agile, working closely with cross-disciplinary teams to align technical development with business goals.
         </p>
-        <p>When I'm not coding, you can find me in the game center or exploring new tech company in the city. I also
-          enjoy reading books and watching documentaries.</p>
+        <p>In my current role, I've successfully led projects that have improved system performance by 30% and significantly reduced load times. I'm also committed to continuous learning, regularly updating my skill set to stay at the forefront of industry advancements. I enjoy sharing my knowledge through tech blogs and contributing to open-source projects, which keeps me connected to the developer community.</p>
       </div>
 
 ## 🌐 Socials:
@@ -54,8 +51,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ALVINdimpos&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Random Dev Meme
 <img src="https://devhumor.com/content/uploads/images/November2019/code-all-day.jpg" width="512px"/>
@@ -63,8 +58,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ALVINdimpos&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AlvinCoder) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
